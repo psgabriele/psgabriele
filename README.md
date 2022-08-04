@@ -3,8 +3,8 @@
 <div>
   <p align="center">🌻 Olá! Meu nome é Gabriele, tenho 18 anos, sou mineira e entusiasta da tecnologia. Em 2021 decobri o mundo da programação e desde então busco aprender o máximo 
     possível sobre o assunto. Fiz um curso de Desenvolvimento Web chamado #OTechTaOn, em que tive meu primeiro contato com HTML5 e CSS3, JavaScript e outras ferramentas.
-    Atualmente estou dedicada ao bootcamp da Generation Brasil para me tornar uma Desenvolvedora Java Fullstack Júnior. Em breve estarei cursando Sistemas de Informação 
-    na UFMG, dando seguimento à minha jornada de conhecimento na área de TI. Aqui estará toda a minha trajetória, seja bem-vindo! 💻</p>
+    Em julho de 2022 me formei como Desenvolvedora Java Full Stack Júnior, pela Generation Brasil, onde aprendi diversas tecnologias e habilidades.
+    Em breve estarei cursando Sistemas de Informação na UFMG, dando seguimento à minha jornada de conhecimento na área de TI. Aqui estará toda a minha trajetória, seja bem-vindo! 💻</p>
 </div>
 
 ##
@@ -20,6 +20,7 @@
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabi-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Gabi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="Gabi-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Gabi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
