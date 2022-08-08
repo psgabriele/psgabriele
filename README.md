@@ -4,7 +4,7 @@
     Olá! Meu nome é Gabriele, tenho 18 anos, sou mineira e entusiasta da tecnologia. Em 2021 decobri o mundo da programação e desde então busco aprender o máximo 
     possível sobre o assunto. Fiz um curso de Desenvolvimento Web chamado #OTechTaOn, em que tive meu primeiro contato com HTML5 e CSS3, JavaScript e outras ferramentas.
     Em julho de 2022 me formei como Desenvolvedora Java Full Stack Júnior, pela Generation Brasil, onde aprendi diversas tecnologias e habilidades.
-    Em breve estarei cursando Sistemas de Informação na UFMG, dando seguimento à minha jornada de conhecimento na área de TI. Aqui estará toda a minha trajetória, seja bem-vindo!
+    Em breve estarei cursando Sistemas de Informação na UFMG, dando seguimento à minha jornada de conhecimento na área de TI. Aqui estará toda a minha trajetória, seja bem-vindo(a)!
 </div>
 
 ##
@@ -26,15 +26,27 @@
   <img align="center" alt="Gabi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Gabi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </div>
-  
-  ##
-  
+ <hr>
+   
  <div align="center">
+      <h3>Projetos</h3>
+      <p>🐝 <a href="https://gabee-blog.netlify.app/">GaBee Blog</a>, blog pessoal construído no bootcamp da Generation</p>
+      <p>🌱 <a href="https://sustentamais.netlify.app/">Sustenta+</a>, rede social baseada no ODS 11 da ONU</p>
+     <p>✨ Outros projetos em andamento...</p>
+ </div>
+ 
+##
+<br>
+<div align="center">
  
  [![Instagram Badge](https://img.shields.io/badge/-@psgab-F65A83?style=flat-square&labelColor=F65A83&logo=instagram&logoColor=white&link=https://instagram.com/psgab)](https://instagram.com/psgab)
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriele%20Sá-0078AA?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriele-s%C3%A1/)](https://www.linkedin.com/in/gabriele-s%C3%A1/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabrielepinheirosa@gmail.com-EA5C2B?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielepinheirosa@gmail.com)](mailto:gabrielepinheirosa@gmail.com)
+    
+</div>
 
+<div align="center">
+    
   ![Snake animation](https://github.com/psgabriele/psgabriele/blob/output/github-contribution-grid-snake.svg)
-   
-  </div>
+    
+</div>
