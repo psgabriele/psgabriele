@@ -50,3 +50,5 @@
   ![Snake animation](https://github.com/psgabriele/psgabriele/blob/output/github-contribution-grid-snake.svg)
     
 </div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=psgabriele&color=D67D3E" alt="Gabriele-Sá" /> </p>
