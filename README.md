@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/psgabriele">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=psgabriele&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psgabriele&layout=compact&langs_count=7&theme=gruvbox_light"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=psgabriele&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psgabriele&layout=compact&langs_count=7&theme=default"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gabi-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
