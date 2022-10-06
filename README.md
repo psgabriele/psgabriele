@@ -9,6 +9,8 @@
 
 - Estudando Sistemas de Informação na UFMG 📚
 
+- Estudando Ciência de Dados na XP Educação 👩‍💻
+
 <br/>
 
 <div align="center">
@@ -32,6 +34,8 @@
    
  <div align="center">
       <h3>Projetos</h3>
+      <p>🦉 <a href="https://github.com/andreiflancanova/Atena">Atena</a>, software de educação baseado no ODS 4 da ONU</p>
+      <p>🦊 <a href="https://github.com/TechFox316/Landing-Page---Tech-Fox">Tech Fox</a>, Landing Page sobre League of Legends</p>
       <p>🐝 <a href="https://gabee-blog.netlify.app/">GaBee Blog</a>, blog pessoal construído no bootcamp da Generation</p>
       <p>🌱 <a href="https://sustentamais.netlify.app/">Sustenta+</a>, rede social baseada no ODS 11 da ONU</p>
      <p>✨ Outros projetos em andamento...</p>
