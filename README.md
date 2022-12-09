@@ -1,15 +1,11 @@
-<h2 align="center">Gabriele Sá</h2>
+<h3 align="center">Hello, I'm Gabriele!</h3>
 
+**About me**
 
-- Oi, eu sou a Gabi! 😊
-
-- Participei do #OTechTaOn, curso de Front-End ✨
-
-- Full Stack Developer pela Generation Brasil 💻
-
-- Estudando Sistemas de Informação na UFMG 📚
-
-- Estudando Ciência de Dados na XP Educação 👩‍💻
+- I participated in the Front-End course #OTechTaOn ✨
+- Full Stack Developer by Generation Brasil 💻
+- Studying Information Systems at UFMG 📚
+- Studying Data Science at XP Education 👩‍💻
 
 <br/>
 
@@ -33,12 +29,12 @@
  <hr>
    
  <div align="center">
-      <h3>Projetos</h3>
-      <p>🦉 <a href="https://github.com/andreiflancanova/Atena">Atena</a>, software de educação baseado no ODS 4 da ONU</p>
-      <p>🦊 <a href="https://github.com/TechFox316/Landing-Page---Tech-Fox">Tech Fox</a>, Landing Page sobre League of Legends</p>
-      <p>🐝 <a href="https://gabee-blog.netlify.app/">GaBee Blog</a>, blog pessoal construído no bootcamp da Generation</p>
-      <p>🌱 <a href="https://sustentamais.netlify.app/">Sustenta+</a>, rede social baseada no ODS 11 da ONU</p>
-     <p>✨ Outros projetos em andamento...</p>
+      <h3>Projects</h3>
+      <p>🦉 <a href="https://github.com/andreiflancanova/Atena">Atena</a>, education software based on UN SDG 4</p>
+      <p>🦊 <a href="https://github.com/TechFox316/Landing-Page---Tech-Fox">Tech Fox</a>, Landing Page about League of Legends</p>
+      <p>🐝 <a href="https://gabee-blog.netlify.app/">GaBee Blog</a>, personal blog built on Generation bootcamp</p>
+      <p>🌱 <a href="https://sustentamais.netlify.app/">Sustenta+</a>, social network based on UN SDG 11</p>
+     <p>✨ Other projects in progress...</p>
  </div>
  
 ##
