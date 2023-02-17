@@ -41,7 +41,7 @@
 <br>
 <div align="center">
  
- [![Instagram Badge](https://img.shields.io/badge/-@psgab-F65A83?style=flat-square&labelColor=F65A83&logo=instagram&logoColor=white&link=https://instagram.com/psgab)](https://instagram.com/psgab)
+ [![Instagram Badge](https://img.shields.io/badge/-@psagabriele-F65A83?style=flat-square&labelColor=F65A83&logo=instagram&logoColor=white&link=https://instagram.com/psgab)](https://instagram.com/psagabriele)
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriele%20Sá-0078AA?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriele-s%C3%A1/)](https://www.linkedin.com/in/gabriele-s%C3%A1/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabrielepinheirosa@gmail.com-EA5C2B?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielepinheirosa@gmail.com)](mailto:gabrielepinheirosa@gmail.com)
     
