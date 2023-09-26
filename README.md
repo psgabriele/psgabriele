@@ -1,4 +1,4 @@
-<img align="right" alt="Dino" width="300" src="https://i2.wp.com/payload.cargocollective.com/1/2/85239/3448177/under-con.gif">
+<img align="right" alt="Dino" width="250" src="https://i2.wp.com/payload.cargocollective.com/1/2/85239/3448177/under-con.gif">
 
 💻 **Information Systems** student at **UFMG**
 <br>
