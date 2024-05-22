@@ -4,9 +4,8 @@
 🎲 Studying **Data Science** at **XPe**<br>
 ✉️  You can contact me at gabrielepinheirosa@gmail.com
 
-<br>
 <a href="https://github.com/psgabriele">
-<img height="156em" src="https://github-readme-stats.vercel.app/api?username=psgabriele&show_icons=true&theme=default&include_all_commits=true&rank_icon=github&hide_border=true"/>
+<img height="156em" src="https://github-readme-stats.vercel.app/api?username=psgabriele&show_icons=true&theme=default&include_all_commits=true&rank_icon=github&hide_border=false"/>
 <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psgabriele&layout=compact&langs_count=7&theme=default"/>
 
 <div style="display: inline_block"><br>
